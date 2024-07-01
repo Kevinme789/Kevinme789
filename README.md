@@ -1,4 +1,6 @@
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=discord,unity,visualstudio,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,linux,mint)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,cs)](https://skillicons.dev)
 <!--
 **Kevinme789/Kevinme789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
