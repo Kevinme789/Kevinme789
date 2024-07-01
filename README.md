@@ -1,4 +1,4 @@
-[![My Skills](https://skillicons.dev/icons?i=discord,unity,visualstudio,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=discord,unity,visualstudio,git,docker,linux,min,java,py,cs&perline=3)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=docker,linux,mint)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=java,py,cs)](https://skillicons.dev)
 <!--
